@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6498949,
       "digest": null,
-      "download_count": 76,
+      "download_count": 77,
       "created_at": "2024-10-12T18:17:42Z",
       "updated_at": "2024-10-12T18:17:43Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-pc-windows-msvc.zip"
