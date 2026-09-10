@@ -22,7 +22,16 @@ x install gptcommit
 - **Latest**: `v0.5.17` (2024-10-12)
 - **Last commit**: 2026-04-06
 - **Assets in release**: 5
-- **Published**: 2024-10-12T18:12:07Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gptcommit-aarch64-apple-darwin.tar.gz](https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-aarch64-apple-darwin.tar.gz) | 6.4 MiB | `native/darwin/arm64` |
+| [gptcommit-x86_64-apple-darwin.tar.gz](https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-apple-darwin.tar.gz) | 6.6 MiB | `native/darwin/x64` |
+| [gptcommit-x86_64-pc-windows-msvc.tar.gz](https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-pc-windows-msvc.tar.gz) | 6.5 MiB | `native/win/x64` |
+| [gptcommit-x86_64-pc-windows-msvc.zip](https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
+| [gptcommit-x86_64-unknown-linux-gnu.tar.gz](https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-unknown-linux-gnu.tar.gz) | 6.7 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -57,8 +66,8 @@ Total: **1,763** lines of code across **39** files in the top 5 languages.
 Install metadata for gptcommit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gptcommit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gptcommit.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gptcommit.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:17:54Z._
