@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6852239,
       "digest": null,
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2024-10-12T18:17:42Z",
       "updated_at": "2024-10-12T18:17:43Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-pc-windows-msvc.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7074899,
       "digest": null,
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2024-10-12T18:14:37Z",
       "updated_at": "2024-10-12T18:14:38Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.5.17/gptcommit-x86_64-unknown-linux-gnu.tar.gz"
