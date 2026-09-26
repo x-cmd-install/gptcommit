@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7658542,
       "digest": "sha256:6909a1678628e5dd519cd330cd23cfabdc6ae235a9fe71c77525e069930351cb",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-24T15:36:18Z",
       "updated_at": "2026-09-24T15:36:19Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7942668,
       "digest": "sha256:1472bb79c03c7fdaa2d5a3572519f64c10cda9d182e27233d85a7c6b88bf5cfc",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-24T15:36:24Z",
       "updated_at": "2026-09-24T15:36:25Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7597136,
       "digest": "sha256:3e11de3b107410924af47ca7a33218fda3c4993b57e214560fbf11b311352f67",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-24T15:37:46Z",
       "updated_at": "2026-09-24T15:37:47Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-pc-windows-msvc.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7231979,
       "digest": "sha256:51f4793cd7b12c6aae8b1623373f642324c24248a175b3f6d09cc7f6a812b821",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-24T15:37:46Z",
       "updated_at": "2026-09-24T15:37:47Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8057569,
       "digest": "sha256:aa13984f39c6bd26e8d5922587a5821a8c19cea20994f024b79c2ce745323902",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-24T15:34:25Z",
       "updated_at": "2026-09-24T15:34:26Z",
       "browser_download_url": "https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-unknown-linux-gnu.tar.gz"
