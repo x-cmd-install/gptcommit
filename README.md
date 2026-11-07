@@ -37,7 +37,7 @@ Total: **2,275** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,415 · **Forks**: 81 · **Open issues**: 70 · **Contributors**: 11
+- **Stars**: 2,413 · **Forks**: 81 · **Open issues**: 70 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,275** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-07 | 1 | 6 | 1 | 0 | 1 | 10 |
-| 90d | 2026-08-08 | 1 | 6 | 1 | 0 | 1 | 10 |
-| last180d | 2026-05-10 | 1 | 6 | 1 | 0 | 2 | 10 |
-| 360d | 2025-11-11 | 1 | 10 | 1 | 0 | 2 | 14 |
-| last720d | 2024-11-16 | 1 | 26 | 1 | 0 | 2 | 30 |
+| 30d | 2026-10-08 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-08 | 1 | 6 | 1 | 0 | 1 | 10 |
+| 90d | 2026-08-09 | 1 | 6 | 1 | 0 | 1 | 10 |
+| last180d | 2026-05-11 | 1 | 6 | 1 | 0 | 2 | 10 |
+| 360d | 2025-11-12 | 1 | 10 | 1 | 0 | 2 | 14 |
+| last720d | 2024-11-17 | 1 | 26 | 1 | 0 | 2 | 30 |
 
 ## Release assets
 
@@ -64,6 +64,14 @@ Total: **2,275** lines of code across **41** files in the top 5 languages.
 | [gptcommit-x86_64-pc-windows-msvc.zip](https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-pc-windows-msvc.zip) | 6.9 MiB | `native/win/x64` |
 | [gptcommit-x86_64-unknown-linux-gnu.tar.gz](https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-unknown-linux-gnu.tar.gz) | 7.7 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/gptcommit). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.6.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gptcommit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gptcommit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +81,4 @@ Install metadata for gptcommit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:31:33Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:52:01Z._
