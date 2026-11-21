@@ -37,22 +37,22 @@ Total: **2,275** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,411 · **Forks**: 81 · **Open issues**: 70 · **Contributors**: 11
+- **Stars**: 2,411 · **Forks**: 81 · **Open issues**: 69 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 142 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 9 · **Commits**: 331
+- **Releases**: 37 · **Merged PRs**: 142 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 8 · **Commits**: 331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 1 | 6 | 1 | 0 | 1 | 10 |
-| 90d | 2026-08-22 | 1 | 6 | 1 | 0 | 1 | 10 |
-| last180d | 2026-05-24 | 1 | 6 | 1 | 0 | 2 | 10 |
-| 360d | 2025-11-25 | 1 | 10 | 1 | 0 | 2 | 14 |
-| last720d | 2024-11-30 | 1 | 26 | 1 | 0 | 2 | 30 |
+| 30d | 2026-10-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 1 | 6 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-23 | 1 | 6 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-25 | 1 | 6 | 1 | 0 | 1 | 10 |
+| 360d | 2025-11-26 | 1 | 10 | 1 | 0 | 1 | 14 |
+| last720d | 2024-12-01 | 1 | 26 | 1 | 0 | 1 | 30 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gptcommit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:04:34Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:12:52Z._
